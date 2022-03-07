@@ -1,2 +1,3 @@
 # Adivinha Numeros Python
- Projeto em que desenvolverei um código que faça um jogo de adivinhação de números.
+Exercício proposto no "Acervo Lima"
+Link: https://acervolima.com/projetos-python-do-iniciante-ao-avancado
